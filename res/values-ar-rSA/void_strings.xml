@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2022-2023 VoidUI
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources>
+    <!-- HBM settings -->
+    <string name="hbm_fragment_title">وضع السطوع العالي</string>
+    <string name="hbm_fragment_summary">إعدادات HBM</string>
+    <string name="hbm_mode_title">HBM</string>
+    <string name="hbm_mode_summary">تمكين ذروة الإغلاق</string>
+    <string name="auto_hbm_title">HBM تلقائي</string>
+    <string name="auto_hbm_summary">تمكين ذروة الإغلاق استناداً إلى ضوء الشمس</string>
+    <string name="auto_hbm_threshold_summary">عتبة (لوكس)</string>
+    <string name="hbm_mode_warning">استخدام وقت طويل لوضع السطوع العالي قد يضر بعرضك</string>
+    <!-- DT2W -->
+    <string name="dt2w_enable_title">انقر نقراً مزدوجاً لإيقاظ</string>
+    <string name="dt2w_enable_summary">انقر نقراً مزدوجاً على شاشة القفل لإيقاظ الجهاز</string>
+</resources>

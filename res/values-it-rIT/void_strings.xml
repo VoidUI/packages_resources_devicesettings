@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2022-2023 VoidUI
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources>
+    <!-- HBM settings -->
+    <string name="hbm_fragment_title">Modalità alta luminosità</string>
+    <string name="hbm_fragment_summary">Impostazioni per HBM</string>
+    <string name="hbm_mode_title">HBM</string>
+    <string name="hbm_mode_summary">Abilitazione della luminanza di picco</string>
+    <string name="auto_hbm_title">HBM automatico</string>
+    <string name="auto_hbm_summary">Abilitazione della luminanza di picco in base alla luce solare</string>
+    <string name="auto_hbm_threshold_summary">soglia (lux)</string>
+    <string name="hbm_mode_warning">L\'uso prolungato della modalità ad alta luminosità può danneggiare il display.</string>
+    <!-- DT2W -->
+    <string name="dt2w_enable_title">Toccare due volte per svegliarsi</string>
+    <string name="dt2w_enable_summary">Doppio tocco sulla lockscreen per risvegliare il dispositivo</string>
+</resources>

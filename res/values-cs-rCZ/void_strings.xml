@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2022-2023 VoidUI
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources>
+    <!-- HBM settings -->
+    <string name="hbm_fragment_title">Režim vysokého jasu</string>
+    <string name="hbm_fragment_summary">Nastavení pro HBM</string>
+    <string name="hbm_mode_title">HBM</string>
+    <string name="hbm_mode_summary">Povolení špičkového jasu</string>
+    <string name="auto_hbm_title">Automatický HBM</string>
+    <string name="auto_hbm_summary">Povolení špičkové svítivosti na základě slunečního světla</string>
+    <string name="auto_hbm_threshold_summary">prahová hodnota (lux)</string>
+    <string name="hbm_mode_warning">Dlouhodobé používání režimu vysokého jasu může poškodit displej.</string>
+    <!-- DT2W -->
+    <string name="dt2w_enable_title">Dvojitým klepnutím se probudíte</string>
+    <string name="dt2w_enable_summary">Probuzení zařízení dvojitým klepnutím na zamykací obrazovku</string>
+</resources>
